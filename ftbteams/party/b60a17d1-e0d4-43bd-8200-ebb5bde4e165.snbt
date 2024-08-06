@@ -1,0 +1,35 @@
+{
+	id: "b60a17d1-e0d4-43bd-8200-ebb5bde4e165"
+	type: "party"
+	owner: "87b3c017-5e55-4276-9bd5-11078114f13a"
+	ranks: {
+		d59e1e26-909f-44d5-99bf-224ce1928305: "officer"
+		87b3c017-5e55-4276-9bd5-11078114f13a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "THE ADVENTURER"
+		"ftbteams:description": "WE ADVENTURE"
+		"ftbteams:color": "#3AFF05"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722053971212L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"OT08\"}]}" }
+		{ from: "87b3c017-5e55-4276-9bd5-11078114f13a", date: 1722229454523L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pretzola\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722229459275L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pretzola\"}]}" }
+		{ from: "87b3c017-5e55-4276-9bd5-11078114f13a", date: 1722229468217L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pretzola\"}]}" }
+	]
+	extra: { }
+}

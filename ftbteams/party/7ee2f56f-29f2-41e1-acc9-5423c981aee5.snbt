@@ -1,0 +1,37 @@
+{
+	id: "7ee2f56f-29f2-41e1-acc9-5423c981aee5"
+	type: "party"
+	owner: "8692495e-2e87-43e3-904e-548455410e11"
+	ranks: {
+		8692495e-2e87-43e3-904e-548455410e11: "owner"
+		2889c51f-9b12-4ffd-b7f4-dffe85d14c7b: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Cynap's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5963"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722319257589L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Cynap\"}]}" }
+		{ from: "8692495e-2e87-43e3-904e-548455410e11", date: 1722361212047L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AviTheBest\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722361223211L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AviTheBest\"}]}" }
+		{ from: "8692495e-2e87-43e3-904e-548455410e11", date: 1722650489781L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"AviTheBest\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Cynap_s_Party#7ee2f56f\"},\"text\":\"Cynap's Party\"}]}" }
+		{ from: "8692495e-2e87-43e3-904e-548455410e11", date: 1722650550297L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AviTheBest\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1722650558657L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AviTheBest\"}]}" }
+	]
+	extra: { }
+}
